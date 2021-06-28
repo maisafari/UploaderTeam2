@@ -1,0 +1,4 @@
+uploaderTeam2\models\FileUploader.class
+uploaderTeam2\AppUploader.class
+uploaderTeam2\CorsFilter.class
+uploaderTeam2\FileUploaderResource.class
